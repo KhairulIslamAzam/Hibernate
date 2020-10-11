@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8e8f73d2-6ef0-470c-a99d-8f898dadcaac" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hH8rU40AVZDXaVdMExCB8Ms2xI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/hb_one_to_one_mapping_bi_" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="hb_main_" />
+      <recent name="hb_many_to_many_" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\Spring practice\Spring_Exercise\HibernateMapping\src\main\resources" />
+      <recent name="G:\Spring practice\Spring_Exercise\HibernateMapping\src\main\java\hb_many_to_many_" />
+      <recent name="G:\Spring practice\Spring_Exercise\HibernateMapping\src\main\java\hb_one_to_many_mapping_uni_" />
+      <recent name="G:\Spring practice\Spring_Exercise\HibernateMapping\src\main\java\hb_one_to_many_mapping_bi_" />
+      <recent name="G:\Spring practice\Spring_Exercise\HibernateMapping\src\main\java\hb_one_to_one_mapping_bi_" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Delete_Many_To_Many_Student_Main">
+    <configuration name="CreateOne_To_ManyWith_CoursesReviews_UniMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hb_main_.CreateOne_To_ManyWith_CoursesReviews_UniMain" />
+      <module name="HibernateMapping" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hb_main_.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Create_Many_To_Many_Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hb_main_.Create_Many_To_Many_Main" />
+      <module name="HibernateMapping" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hb_main_.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeleteOne_To_ManyWith_CoursesReviews_UniMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hb_main_.DeleteOne_To_ManyWith_CoursesReviews_UniMain" />
+      <module name="HibernateMapping" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hb_main_.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Delete_Many_To_Many_Course_Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hb_main_.Delete_Many_To_Many_Course_Main" />
+      <module name="HibernateMapping" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hb_main_.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Delete_Many_To_Many_Student_Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hb_main_.Delete_Many_To_Many_Student_Main" />
+      <module name="HibernateMapping" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hb_main_.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Delete_Many_To_Many_Student_Main" />
+        <item itemvalue="Application.Delete_Many_To_Many_Course_Main" />
+        <item itemvalue="Application.Create_Many_To_Many_Main" />
+        <item itemvalue="Application.DeleteOne_To_ManyWith_CoursesReviews_UniMain" />
+        <item itemvalue="Application.CreateOne_To_ManyWith_CoursesReviews_UniMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e8f73d2-6ef0-470c-a99d-8f898dadcaac" name="Default Changelist" comment="" />
+      <created>1599656855128</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599656855128</updated>
+      <workItem from="1599656859652" duration="2934000" />
+      <workItem from="1599665646616" duration="4105000" />
+      <workItem from="1599675764612" duration="3047000" />
+      <workItem from="1599684055416" duration="1652000" />
+      <workItem from="1599718461891" duration="2305000" />
+      <workItem from="1599730664331" duration="1934000" />
+      <workItem from="1599756431851" duration="1838000" />
+      <workItem from="1599843448366" duration="5770000" />
+      <workItem from="1599882667367" duration="1240000" />
+      <workItem from="1599902281617" duration="594000" />
+      <workItem from="1599905407586" duration="591000" />
+      <workItem from="1599975248689" duration="662000" />
+      <workItem from="1600001256191" duration="587000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="80" key="#com.intellij.ide.util.MemberChooser" timestamp="1599847483275">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="80" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1599677669183" />
+    <state x="488" y="80" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1599847483275" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1599850670741">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1599678925310" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599850670741" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1599850670741">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1599678925310" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599850670741" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1599850670741">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1599678925310" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599850670741" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1599850670741">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1599678925310" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599850670741" />
+    <state x="213" y="19" key="Maven.ArtifactSearchDialog" timestamp="1599685098845">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="19" key="Maven.ArtifactSearchDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1599685098845" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1599666626185">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1599666626185" />
+    <state x="499" y="142" key="chooseDestDirectoryDialog" timestamp="1599667343126">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="499" y="142" key="chooseDestDirectoryDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1599667343126" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1599882665575">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1599684252773" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1599882665575" />
+    <state x="413" y="130" key="extract.method.dialog" timestamp="1599666932294">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="130" key="extract.method.dialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1599666932294" />
+    <state x="65" y="66" key="new project wizard" timestamp="1599883609196">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="66" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1599883609196" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1599847252543">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1599667011075" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1599847252543" />
+  </component>
+</project>
